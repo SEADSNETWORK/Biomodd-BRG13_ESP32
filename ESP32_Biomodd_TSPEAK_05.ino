@@ -37,7 +37,7 @@ void setup() {
 
   // Connect to WIFI
   Serial.println("Good Day :)");
-  Serial.begin(115200);
+  Serial.begin(9600);
   Serial.println();
   Serial.print("connecting to ");
   Serial.println(ssid);
