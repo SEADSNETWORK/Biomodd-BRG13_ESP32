@@ -2,7 +2,7 @@
 * To do: add wiring diagram
 
 
-Added "if (WiFi.status() != WL_CONNECTED)..." Since the connection randomly disconnects after a few hours.
+Added "if (WiFi.status() != WL_CONNECTED)..." Since the connection to ThingSpeak randomly disconnects after a few hours.
 
 
 ESP32_Biomodd.ino
