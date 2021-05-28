@@ -1,4 +1,4 @@
-# Biomodd-BRG13_ESP32
+# Biomodd-BRG13 ESP32+ADS1115 IoT
 * To do: add wiring diagram
 
 
