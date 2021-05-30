@@ -15,6 +15,7 @@ The resulting value(s) can be pushed to Biomodd.xyz, a ThingSpeak channel or oth
 Example links:
 
 Biomodd.xyz: https://www.biomodd.xyz/data?author=jeronimo
+
 ThingSpeak:  https://thingspeak.com/channels/1396903
 
 
