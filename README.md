@@ -20,6 +20,8 @@ ThingSpeak:  https://thingspeak.com/channels/1396903
 
 
 
+
+
 Edit the following lines according to your own account/credentials:
 
 For Biomodd.xyz http(s) push(check the latest required format there):
