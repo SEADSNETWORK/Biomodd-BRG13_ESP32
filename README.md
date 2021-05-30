@@ -1,9 +1,6 @@
 # Biomodd-BRG13 ESP32+ADS1115 IoT
-* To do: add wiring diagram
 
-
-Added "if (WiFi.status() != WL_CONNECTED)..." Since the connection to ThingSpeak randomly disconnects after a few hours.
-
+Added "if (WiFi.status() != WL_CONNECTED)..." Since the connection to ThingSpeak randomly disconnects after a few hours. Connection seems to be stable now.
 
 ESP32_Biomodd.ino
 
